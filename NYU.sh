@@ -9,4 +9,4 @@ pip3 install visdom dominate
 
 cd /eccv20dataset/dy/dcy
 
-python3 train.py --batchSize=6 --gpu_ids=0
+python3 train.py --batchSize=16
