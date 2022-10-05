@@ -6,4 +6,5 @@ apt-get update ##asdfasdf
 apt-get install ffmpeg libsm6 libxext6  -y
 pip3 install visdom dominate 
 cd /openroomssubstance/dcy/InverseRenderingOfIndoorScene/
+source /openroomssubstance/dcy/InverseRenderingOfIndoorScene/setup_conda.sh
 python3 train_script.py
