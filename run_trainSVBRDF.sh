@@ -1,7 +1,5 @@
 #!/bin/sh
 
-bash /openroomssubstance/dcy/Miniconda3-py39_4.12.0-Linux-x86_64.sh -b
-export "PATH=~/miniconda3/bin:$PATH"
 pip3 install --upgrade pip
 pip3 install opencv-python
 apt-get update ##asdfasdf
